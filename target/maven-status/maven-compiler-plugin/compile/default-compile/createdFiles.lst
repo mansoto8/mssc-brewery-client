@@ -1,0 +1,7 @@
+com/ms/msscbreweryclient/web/model/BeerDTO$BeerDTOBuilder.class
+com/ms/msscbreweryclient/web/model/BeerDTO.class
+com/ms/msscbreweryclient/web/client/BreweryClient.class
+com/ms/msscbreweryclient/MsscBreweryClientApplication.class
+com/ms/msscbreweryclient/web/model/CustomerDTO$CustomerDTOBuilder.class
+com/ms/msscbreweryclient/web/config/BlockingRestTemplateCustomizer.class
+com/ms/msscbreweryclient/web/model/CustomerDTO.class

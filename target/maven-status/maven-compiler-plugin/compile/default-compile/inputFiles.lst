@@ -1,0 +1,5 @@
+/home/juan/training/spring-ms/mssc-brewery-client/src/main/java/com/ms/msscbreweryclient/web/client/BreweryClient.java
+/home/juan/training/spring-ms/mssc-brewery-client/src/main/java/com/ms/msscbreweryclient/web/model/CustomerDTO.java
+/home/juan/training/spring-ms/mssc-brewery-client/src/main/java/com/ms/msscbreweryclient/MsscBreweryClientApplication.java
+/home/juan/training/spring-ms/mssc-brewery-client/src/main/java/com/ms/msscbreweryclient/web/model/BeerDTO.java
+/home/juan/training/spring-ms/mssc-brewery-client/src/main/java/com/ms/msscbreweryclient/web/config/BlockingRestTemplateCustomizer.java
